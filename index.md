@@ -9,7 +9,7 @@
 
 `print('Hello World')`
 
-[Go to top of section](#Andrew's-Webpage)
+[Go to top of section](#andrews-webpage)
 [Surfboards image](images/surfboards.jpeg)
 
 Today I will:
