@@ -1,5 +1,2 @@
-# CSE110
-Andrew Masek's User Page
-
-My Favorite Programming language is Python
-My site is located [here](https://portoaj.github.io/CSE110/)
+# Lab 2 - Starter
+Site link: https://portoaj.github.io/CSE110Lab2/
